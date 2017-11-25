@@ -1,0 +1,11 @@
+login_details.txt
+bin/
+geckodriver
+geckodriver.log
+include/
+lib/
+local/
+pip-selfcheck.json
+selenium/
+share/
+
